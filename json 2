@@ -1,0 +1,19 @@
+// 20230522001113
+// https://shipfiletuning.com/test/file.json
+
+{
+  "vpn": {
+    "activate_vpn": "true",
+    "vpn_username": "ncpmariyabtk@namecheap",
+    "vpn_password": "70XLmM8TRh",
+    "retry_vpn_counter": 2,
+    "excluded_countries": [
+      "FR"
+    ],
+    "vpn_country": "✅",
+    "serversList": [
+      "https://www.dropbox.com/s/vsermp5vf7aw7ok/NCVPN-US-Phoenix-UDP.ovpn?dl=1",
+      "https://www.dropbox.com/s/37c5h5uoi4jn4su/NCVPN-US-Chicago-UDP.ovpn?dl=1"
+    ]
+  }
+}
